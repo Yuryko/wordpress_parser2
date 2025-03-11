@@ -5,4 +5,5 @@ edition = "2021"
 
 [dependencies]
 zip = "2.2.3"
-encoding = "0.2.30" 
+encoding = "0.2"
+regex ="1" 
