@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-zip = "2.2.3"
+zip = "2.3.0"
 encoding = "0.2"
 regex ="1" 
+walkdir = "2"
